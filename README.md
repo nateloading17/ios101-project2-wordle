@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 216.86746987951807%; height: 0;"><iframe src="https://www.loom.com/embed/56a81d43afa94a9eb17d548a0adfd0ae?sid=ada96528-79b2-4579-8bb2-fd1fb2d7a493" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
@@ -36,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2024] [Nathaniel Baez ]
+    Copyright [2024] [Nathaniel Baez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
