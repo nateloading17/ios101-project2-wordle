@@ -1,6 +1,6 @@
 # Project 2 - *Wordle*
 
-Submitted by: ** Nathaniel Baez**
+Submitted by: **Nathaniel Baez**
 
 **Wordle** is an app that ... allows the user to guess a random word ranging in 4-7 letters. Users can increase or decrease the game difficulty by decreasing/increasing the number of tries alotted towards guessing the corrrect word. Users have the ability to reset the game to generate a new word. Users are able to switch word themes from generic words to countries and animals. Additionally, users can turn on alien mode where the word changes at every guess. 
 
